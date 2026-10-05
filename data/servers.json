@@ -2847,5 +2847,23 @@
     "endpoints": {
       "streamableHttp": "https://agproxy.shveik.dev/mcp"
     }
+  },
+  {
+    "name": "agvps",
+    "url": "https://agvps.shveik.dev",
+    "description": "Servers for agents, rented by the month: a Linux server with root access and a public IPv4, paid per call with x402 stablecoins, renewed by paying again; no API key.",
+    "category": "cloud-and-infrastructure",
+    "language": "Go",
+    "provider": "agvps",
+    "tags": [
+      "vps",
+      "hosting",
+      "x402",
+      "remote"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://agvps.shveik.dev/mcp"
+    }
   }
 ]
