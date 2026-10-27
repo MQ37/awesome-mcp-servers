@@ -189,6 +189,23 @@
     }
   },
   {
+    "name": "agbrowser",
+    "url": "https://agbrowser.shveik.dev",
+    "description": "Hosted browser sessions for agents: navigate, interact, read pages and take screenshots. Session purchases and extensions use stablecoins over x402 or MPP on Base; browser operations use session credentials.",
+    "category": "browsers-search-and-web-automation",
+    "language": "Go",
+    "provider": "shveik.dev",
+    "tags": [
+      "browser-automation",
+      "x402",
+      "remote"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://agbrowser.shveik.dev/mcp"
+    }
+  },
+  {
     "name": "agdata",
     "url": "https://agdata.shveik.dev",
     "description": "Pay-per-call web data for agents: any URL as Markdown, screenshots, YouTube transcripts and comments, Maps and Amazon reviews, jobs, news, search; paid with x402 stablecoins, no API key.",

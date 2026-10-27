@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> Full Markdown catalog of 464 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
+> Full Markdown catalog of 465 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
 
 This file lists every server in the catalog. Descriptions are the catalog's one-sentence summaries, not the upstream README. `Official: yes` means the MCP project or the named provider backs the server. Remote endpoints are included only when the catalog lists an SSE or streamable HTTP URL.
 
@@ -940,6 +940,18 @@ Remote MCP server (streamable HTTP, no key) to look up whether AI crawlers can s
 - Tags: ai-crawlers, robots, seo, remote
 - Category: Browsers, Search, and Web Automation
 - Streamable HTTP endpoint: https://402registry.com/mcp
+
+### agbrowser
+
+Hosted browser sessions for agents: navigate, interact, read pages and take screenshots. Session purchases and extensions use stablecoins over x402 or MPP on Base; browser operations use session credentials.
+
+- URL: https://agbrowser.shveik.dev
+- Language: Go
+- Provider: shveik.dev
+- Official: yes
+- Tags: browser-automation, x402, remote
+- Category: Browsers, Search, and Web Automation
+- Streamable HTTP endpoint: https://agbrowser.shveik.dev/mcp
 
 ### agdata
 

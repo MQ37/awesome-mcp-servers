@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> Hand-curated, link-checked catalog of 464 Model Context Protocol (MCP) servers in 13 categories. Each entry has a URL, description, category, language, provider, tags, and an official flag. The website, JSON API, and these files are generated from the same data.
+> Hand-curated, link-checked catalog of 465 Model Context Protocol (MCP) servers in 13 categories. Each entry has a URL, description, category, language, provider, tags, and an official flag. The website, JSON API, and these files are generated from the same data.
 
 MCP is an open protocol that lets AI applications connect to external tools and data through a standardized client-server interface. This catalog lists well-scoped, source-available servers for databases, developer tools, browsers, cloud services, and more. Entries are reviewed for a clear purpose, a public source, and recent or official maintenance. Links are checked on every pull request and weekly.
 
@@ -106,6 +106,7 @@ Links under each category point at the upstream project, docs, or registry page.
 
 - [2Captcha MCP](https://github.com/2captcha/2captcha-mcp): Scrape pages past anti-bot protection, parse marketplaces into JSON, automate a browser, and solve CAPTCHAs. (JavaScript, official)
 - [402registry](https://402registry.com): Remote MCP server (streamable HTTP, no key) to look up whether AI crawlers can see a website, with prices, docs and service status; the paid check ($0.01 over x402) stays plain HTTP. (TypeScript, official)
+- [agbrowser](https://agbrowser.shveik.dev): Hosted browser sessions for agents: navigate, interact, read pages and take screenshots. Session purchases and extensions use stablecoins over x402 or MPP on Base; browser operations use session credentials. (Go, official)
 - [agdata](https://agdata.shveik.dev): Pay-per-call web data for agents: any URL as Markdown, screenshots, YouTube transcripts and comments, Maps and Amazon reviews, jobs, news, search; paid with x402 stablecoins, no API key. (Go, official)
 - [AgentRender](https://github.com/corbinvachal48/agentrender-mcp): Turns a URL into a screenshot, PDF, or structured extract (title, text, links) via a hosted render API. Local `uvx agentrender-mcp` or remote endpoint; free API key, no card. (Python, official)
 - [agproxy](https://agproxy.shveik.dev): Pay-per-call residential proxy traffic and raw fetch for agents, with country targeting and sticky sessions; paid with x402 stablecoins, no API key. (Go, official)

@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-[![Servers](https://img.shields.io/badge/servers-464-brightgreen)](#catalog)
+[![Servers](https://img.shields.io/badge/servers-465-brightgreen)](#catalog)
 [![GitHub stars](https://img.shields.io/github/stars/mcpHQ/awesome-mcp-servers?style=flat&logo=github)](https://github.com/mcpHQ/awesome-mcp-servers/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/mcpHQ/awesome-mcp-servers)](https://github.com/mcpHQ/awesome-mcp-servers/commits/main)
 [![Link check](https://github.com/mcpHQ/awesome-mcp-servers/actions/workflows/link-check.yml/badge.svg)](https://github.com/mcpHQ/awesome-mcp-servers/actions/workflows/link-check.yml)
@@ -44,7 +44,7 @@ If this list saves you time, please ⭐ star the repo. It helps other people fin
 - [Official and Reference Servers](#official-and-reference) (11)
 - [Databases and Storage](#databases-and-storage) (17)
 - [Developer Tools and Code Intelligence](#developer-tools-and-code-intelligence) (52)
-- [Browsers, Search, and Web Automation](#browsers-search-and-web-automation) (47)
+- [Browsers, Search, and Web Automation](#browsers-search-and-web-automation) (48)
 - [Filesystems and Documents](#filesystems-and-documents) (18)
 - [Cloud and Infrastructure](#cloud-and-infrastructure) (24)
 - [Communication and Productivity](#communication-and-productivity) (55)
@@ -246,6 +246,8 @@ Browse the web, scrape content, search, and automate browser interactions.
   `scraping` `web` `browser-automation` `captcha`
 - **[402registry](https://402registry.com)** `Official` `TypeScript` — Remote MCP server (streamable HTTP, no key) to look up whether AI crawlers can see a website, with prices, docs and service status; the paid check ($0.01 over x402) stays plain HTTP.  
   `ai-crawlers` `robots` `seo` `remote`
+- **[agbrowser](https://agbrowser.shveik.dev)** `Official` `Go` — Hosted browser sessions for agents: navigate, interact, read pages and take screenshots. Session purchases and extensions use stablecoins over x402 or MPP on Base; browser operations use session credentials.  
+  `browser-automation` `x402` `remote`
 - **[agdata](https://agdata.shveik.dev)** `Official` `Go` — Pay-per-call web data for agents: any URL as Markdown, screenshots, YouTube transcripts and comments, Maps and Amazon reviews, jobs, news, search; paid with x402 stablecoins, no API key.  
   `web-scraping` `x402` `markdown` `remote`
 - **[AgentRender](https://github.com/corbinvachal48/agentrender-mcp)** `Official` `Python` — Turns a URL into a screenshot, PDF, or structured extract (title, text, links) via a hosted render API. Local `uvx agentrender-mcp` or remote endpoint; free API key, no card.  
